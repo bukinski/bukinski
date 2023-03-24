@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gregor Szczypek</h1>
-<h3 align="center">Learning to code and software test</h3>
+<h3 align="center">Mobile development, SW Test</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bukinski&label=Profile%20views&color=0e75b6&style=flat" alt="bukinski" /> </p>
 
