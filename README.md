@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bukinski&label=Profile%20views&color=0e75b6&style=flat" alt="bukinski" /> </p>
 
-- 🔭 I’m currently working on [Vocabels](https://github.com/bukinski/Vocabels.git)
+- 🔭 I’m currently working on ISSAPP
 
 - 🌱 I’m currently learning **Kotlin and swift**
 
