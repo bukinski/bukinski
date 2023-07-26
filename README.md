@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on ISSAPP
 
-- 🌱 I’m currently learning **Kotlin and swift**
+- 🌱 I’m currently learning **Swift, SwiftUI, Core Data, UIKit**
 
 - 📫 How to reach me **gregor.szczypek@gmail.com**
 
