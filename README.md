@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/gregor szczypek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gregor szczypek" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17590466" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17590466" height="30" width="40" /></a>
-<a href="https://instagram.com/grygyr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="grygyr" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bukinski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bukinski" height="30" width="40" /></a>
 </p>
 
